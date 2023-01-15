@@ -3,7 +3,7 @@
 <div align="center">
   <a href="https://github.com/HenriqueSericov">
   <img width="48%"  src="https://github-readme-stats-sigma-five.vercel.app/api?username=HenriqueSericov&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueSericov&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img width="41%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HenriqueSericov&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
   
   
