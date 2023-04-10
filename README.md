@@ -1,4 +1,4 @@
-## Olá ! Me chamo Henrique Sericov!
+## Olá Meus Queridos! Me chamo Henrique Sericov! 😁
 
 <div align="center">
   <a href="https://github.com/HenriqueSericov">
