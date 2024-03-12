@@ -2,8 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/HenriqueSericov">
-  <img width="48%"  src="https://github-readme-stats-sigma-five.vercel.app/api?username=HenriqueSericov&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img width="41%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HenriqueSericov&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img alt="stats" height="140px" src="./images/github-readme-stats/api.svg" /><img alt="top langs" height="140px" src="./images/github-readme-stats/top-langs.svg" />
 </div>
   
   
