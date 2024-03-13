@@ -2,10 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/HenriqueSericov">
-  <img alt="stats" height="140px" src="./images/github-readme-stats/api.svg" /><img alt="top langs" height="140px" src="./images/github-readme-stats/top-langs.svg" />
-</div>
-  
-  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriqueSericov)](https://github.com/HenriqueSericov/github-readme-stats)
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Henrique-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
