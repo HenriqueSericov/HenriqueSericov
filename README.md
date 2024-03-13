@@ -2,7 +2,11 @@
 
 <div align="center">
   <a href="https://github.com/HenriqueSericov">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriqueSericov)](https://github.com/HenriqueSericov/github-readme-stats)
+  <img width="48%"  src="https://github-readme-stats-sigma-five.vercel.app/api?username=HenriqueSericov&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img width="41%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HenriqueSericov&layout=compact&langs_count=7&theme=midnight-purple"/>
+</div>
+  
+  
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Henrique-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
